@@ -11,6 +11,7 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Console.WriteLine("tset");
+            Console.WriteLine("tset2");
             Console.ReadLine();
         }
     }
